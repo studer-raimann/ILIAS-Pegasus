@@ -72,7 +72,7 @@
     "rxjs": "^6.6.2",
     "text-encoding": "^0.7.0",
     "tslib": "^1.13.0",
-    "typeorm": "^0.1.21",
+    "typeorm": "^0.2.25",
     "uuid-js": "^0.7.5",
     "web-animations-js": "^2.3.2",
     "zone.js": "^0.10.3"
